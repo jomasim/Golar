@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Golar</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in_short">enter_password</string>
+    <string name="golar">Golar</string>
+    <string name="find_your_home_here">Find your home here!</string>
+    <string name="not_a_member_sign_up">Not a member ? sign up</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forgot_password">Forgot password ?</string>
+</resources>
