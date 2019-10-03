@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.devloop.golar.test" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="29" />
+
+    <instrumentation
+        android:name="androidx.test.runner.AndroidJUnitRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for com.devloop.golar"
+        android:targetPackage="com.devloop.golar" />
+
+    <application android:debuggable="true" >
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+</manifest>
